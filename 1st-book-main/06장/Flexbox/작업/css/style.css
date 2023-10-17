@@ -11,3 +11,6 @@ ul li {
 }
 
 /*아래에 Flexbox 코드를 넣습니다*/
+ul {
+  display: flex;
+}
