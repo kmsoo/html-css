@@ -69,6 +69,7 @@ header nav ul li a:hover {
   margin-bottom: 0;
   position: relative;
 }
+/* 
 .msgSec p.illust::before {
   content: url(../images/deco_left.png);
   position: absolute;
@@ -81,6 +82,7 @@ header nav ul li a:hover {
   right: 320px;
   bottom: -30px;
 }
+ */
 .dateSec {
   background-color: #ffffff;
   padding-bottom: 120px;
